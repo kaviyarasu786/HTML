@@ -1,0 +1,81 @@
+h1
+{
+    text-align: center;
+    color: brown;
+}
+
+html
+{
+    background-color: blanchedalmond;
+    
+}
+#ms
+{
+    margin-top: 50px;
+    width: 1250px;
+    height: 40px;
+    background: pink;
+    
+}
+#ms ul li
+{
+    display: inline;
+    background-color: skyblue;
+    padding: 2px ;
+    margin: 15px;
+}
+#ms 
+{
+    text-align: center;
+}
+#ms a
+{
+    color: green;
+}
+#kgisl
+{
+    width: 500px;
+    height: 200px;
+    background: whitesmoke;
+    margin-top: 50px;
+    margin-left: 20px;
+    text-align: justify;
+    padding-top: 10px;
+    color:orange;
+    border-radius: 20px;
+    padding: 20px;
+    
+}
+.prg
+{
+    width: 500px;
+    height: 200px;
+    background: whitesmoke;
+    margin-top: 100px;
+    color: blue;
+    margin-left: 600px;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+#prgt
+{
+    width: 500px;
+    height: 200px;
+    background: whitesmoke;
+    text-align: justify;
+    margin-top: 100px ;
+    color: crimson;
+    border-radius: 20px;
+    padding: 20px;
+
+      
+}
+#border
+{
+    width: 1300px;
+    height: 20px;
+    background: yellow;
+    margin-top: 50px;
+
+}

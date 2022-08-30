@@ -1,0 +1,20 @@
+table,th,td
+{
+    border: 2px solid greenyellow;
+    width: 100px;
+    height: 50px;
+    border-collapse:collapse;
+    padding: 10px;
+    margin: 100px 100px 100px 100px;
+    
+}
+tbody tr:nth-child(odd)
+{
+    background-color:wheat;
+    color:blue ;
+}
+tbody tr:nth-child(even)
+{
+    background-color: chartreuse;
+    color: azure;
+}

@@ -1,0 +1,62 @@
+.img
+{
+    background-image: url("https://media.istockphoto.com/photos/perfect-sky-and-ocean-picture-id467367026?k=20&m=467367026&s=612x612&w=0&h=HBytXxkz31s-ZQrTwH3pbCy51Ep0SRScSXkChSUhYWk=");
+
+    background-size: cover;
+    
+}
+ol li
+{
+    list-style: none;
+    display: inline;
+    color: white;
+    padding: 10px;
+}
+p
+{
+    color: white;
+    font-size: 50;
+    margin-left: 100px;
+    
+}
+h3
+{
+    color:white;
+    margin-left: 100px;
+    
+    
+}
+#inp1
+{
+    margin-left: 40px;
+    padding-bottom: 10px;
+}
+#inp2
+{
+    margin-left: 40px;
+    color: white;
+    padding-bottom: 30px;
+
+}
+
+.first img
+{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+}
+
+button
+{
+    background: orange;
+    color: white;
+}
+
+#last
+{
+    float: right;
+}
+#fir
+{
+    float: right;
+}

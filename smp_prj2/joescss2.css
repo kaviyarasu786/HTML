@@ -1,0 +1,78 @@
+
+body
+{
+    background: blueviolet;  
+    
+}
+#first 
+{
+    color: brown;
+}
+#head
+{
+    margin-top: 50px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+#head ul li
+{
+display: inline;
+  padding: 10px;
+  background: red;
+  
+}
+#first 
+{
+    color: burlywood;
+    border: 2px solid red;
+    width: 1000px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 250px;
+    background-image: url("https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29sbGVnZSUyMGNhbXB1c3xlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-left: 150px ;
+}
+#first h1
+{
+    text-align: center;
+    color: chartreuse;
+}
+#t3
+{
+    border:2px solid yellow;
+    width: 1000px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 50px;
+    text-align: center;
+    background-color: palevioletred;
+    border-radius: 20px;
+}
+#t3 ol li
+{
+    text-align: left;
+       
+}
+img
+{
+    width: 100px;
+    height: 100px;
+    padding:center;
+    border-radius: 20px;
+}
+#t3 a
+{
+    padding:center;
+}
+nav ul li
+{
+    display: inline;
+    background: palegoldenrod; 
+}
+nav
+{
+    text-align: center;
+}
